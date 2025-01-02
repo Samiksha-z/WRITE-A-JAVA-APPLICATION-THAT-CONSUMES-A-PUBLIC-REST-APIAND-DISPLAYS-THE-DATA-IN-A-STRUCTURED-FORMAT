@@ -26,3 +26,7 @@ org.json.JSONObject
 com.google.gson.Gson
 Error Handling:
 Implement error-handling mechanisms to manage scenarios such as invalid API keys, incorrect city names, or network issues.
+
+
+# OUTPUT OF TASK
+https://github.com/Samiksha-z/WRITE-A-JAVA-APPLICATION-THAT-CONSUMES-A-PUBLIC-REST-APIAND-DISPLAYS-THE-DATA-IN-A-STRUCTURED-FORMAT/issues/1#issue-2766281511
