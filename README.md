@@ -30,3 +30,4 @@ Implement error-handling mechanisms to manage scenarios such as invalid API keys
 
 # OUTPUT OF TASK
 https://github.com/Samiksha-z/WRITE-A-JAVA-APPLICATION-THAT-CONSUMES-A-PUBLIC-REST-APIAND-DISPLAYS-THE-DATA-IN-A-STRUCTURED-FORMAT/issues/1#issue-2766281511
+https://github.com/Samiksha-z/WRITE-A-JAVA-APPLICATION-THAT-CONSUMES-A-PUBLIC-REST-APIAND-DISPLAYS-THE-DATA-IN-A-STRUCTURED-FORMAT/issues/2#issue-2766288666
